@@ -6,9 +6,7 @@ Esta é uma simples calculadora construída utilizando React.js. O projeto exemp
 
 - Operações básicas: adição, subtração, multiplicação e divisão.
 - Interface de usuário responsiva e intuitiva.
-- Exibe o histórico da operação em tempo real.
 - Limpeza total da entrada e resultado (botão "AC").
-- Suporte para cálculos encadeados.
 
 ## Pré-requisitos
 
