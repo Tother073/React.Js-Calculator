@@ -1,0 +1,15 @@
+
+
+
+.c-container-s {
+    user-select: none;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+    width: 22vw;
+    height: auto;
+    border-radius: 5%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}

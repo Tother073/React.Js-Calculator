@@ -1,0 +1,30 @@
+
+
+
+
+.c-bnt-s {
+    /* height: 68px; */
+    /* width: 68px; */
+    width: 4.4rem;
+    height: 4.4rem;
+    cursor: pointer;
+    border-radius: 100%;
+    border: none;
+    background-color: rgba(30, 30, 30);
+    font-size: 30px;
+    font-weight: 400;
+    color: white;
+    box-shadow: 0 0 8px black;
+
+    &.bnt-cls-s {
+        background-color: rgba(125, 25, 25, 1);
+    }
+    
+    &.bnt-operator-s {
+        background-color: rgba(80, 80, 80);
+    }
+
+    &.bnt-resul-s {
+        background-color: rgba(138, 43, 226, 0.5);
+    }
+}
