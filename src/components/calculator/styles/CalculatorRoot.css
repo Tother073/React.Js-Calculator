@@ -9,7 +9,41 @@
     gap: 20px;
     padding: 20px;
     width: 22vw;
-    height: auto;
+    max-width: none;
     border-radius: 5%;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+
+
+
+@media (max-width: 600px) {
+    .c-container-s {
+        width: 100%;
+        padding: 20px;
+    }
+
+    .c-display-s {
+        font-size: 1.5em;
+    }
+
+    .c-bnts {
+        grid-template-columns: repeat(4, 1fr);
+    }
+}
+
+
+
+@media (min-width: 601px) and (max-width: 900px) {
+    .c-container-s {
+        width: 100%;
+    }
+
+    .c-display-s {
+        font-size: 1.8em;
+    }
+
+    .c-bnts {
+        grid-template-columns: repeat(4, 1fr);
+    }
 }

@@ -3,10 +3,8 @@
 
 
 .c-bnt-s {
-    /* height: 68px; */
-    /* width: 68px; */
-    width: 4.4rem;
-    height: 4.4rem;
+    width: 4.4rem; /*width: 68px;*/
+    height: 4.4rem; /*height: 68px;*/
     cursor: pointer;
     border-radius: 100%;
     border: none;
