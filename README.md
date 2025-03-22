@@ -20,4 +20,4 @@ Antes de rodar o projeto, você precisará ter o seguinte instalado em sua máqu
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/react-calculator.git
+git clone https://github.com/Tother073/React.Js-Calculator.git
