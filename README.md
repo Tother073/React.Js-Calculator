@@ -13,7 +13,7 @@ Esta é uma simples calculadora construída utilizando React.js. O projeto exemp
 Antes de rodar o projeto, você precisará ter o seguinte instalado em sua máquina:
 
 - [Node.js](https://nodejs.org/en/)
-- [npm](https://www.npmjs.com/) ou [yarn](https://yarnpkg.com/)
+- [npm](https://www.npmjs.com/)
 
 ## Como rodar o projeto
 
